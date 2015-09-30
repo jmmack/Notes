@@ -1,3 +1,4 @@
+#What does ALDEx do and why (layman's)
 - Add prior to zeros
     - For conversion to log space
     - How likely you think a zero is a real zero
