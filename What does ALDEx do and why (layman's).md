@@ -16,5 +16,6 @@
 - Multiple test correction
     - Duh
 
-- Just CLR - too much background noise in low counts
-- Just Dir - data re non-linear, scaling is difficult (normalizing)
+
+Just CLR - too much background noise in low counts
+Just Dir - data re non-linear, scaling is difficult (normalizing)
